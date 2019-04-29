@@ -9,5 +9,5 @@ Used famous open data source [Stanford Dog Breed Dataset](http://vision.stanford
 # Performance Comparison among Dog Breed Fine-Grained Image Classification Models
 1. Approach details, models and insights are posted on Medium :</br>
 [Dog Breed Fine-Grained Image Classficiation](https://medium.com/@claymason313/dog-breed-image-classification-1ef7dc1b1967) </br>
-2. Summary of model performances :</br>
+2. Example output of model performances :</br>
 ![](summary.PNG)
