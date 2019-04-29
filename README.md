@@ -1,8 +1,11 @@
-# dog_breed_identification
-This is for advanced predicted modeling project.
+# Dog Breed Fine-Grained Image Identification & Classification
+1. This was for Advanced Predictive Modeling Class Project.</br>
+**Team Members:Jui Gupta, Jess Lee, Clay Mason, Chelsea Matthews, and Cuiting Zhong**</br>
+2. We built image classfication models using ResNet50, MobileNet, Inception V3, VGG16</br>
 
-**Team Members:**
-Jui Gupta, Jess Lee, Clay Mason, Chelsea Matthews, and Cuiting Zhong
+# Dataset
+Used famous open data source [Stanford Dog Breed Dataset](http://vision.stanford.edu/aditya86/ImageNetDogs/)
 
-**Medium Blog**
-https://medium.com/@claymason313/dog-breed-image-classification-1ef7dc1b1967
+# Performance Comparison among Dog Breed Fine-Grained Image Classification Models
+Approach details, models and insights are posted on Medium:</br>
+[Dog Breed Fine-Grained Image Classficiation](https://medium.com/@claymason313/dog-breed-image-classification-1ef7dc1b1967)
