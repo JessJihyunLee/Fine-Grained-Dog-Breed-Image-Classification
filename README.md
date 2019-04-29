@@ -1,6 +1,6 @@
 # Dog Breed Fine-Grained Image Identification & Classification
 1. This was for Advanced Predictive Modeling Class Project.</br>
-**Team Members:Jui Gupta, Jess Lee, Clay Mason, Chelsea Matthews, and Cuiting Zhong**</br>
+* **Team Members:Jui Gupta, Jess Lee, Clay Mason, Chelsea Matthews, and Cuiting Zhong**</br>
 2. We built image classfication models using ResNet50, MobileNet, Inception V3, VGG16</br>
 
 # Dataset
