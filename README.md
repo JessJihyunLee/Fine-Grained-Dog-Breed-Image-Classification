@@ -4,7 +4,8 @@
 2. We built image classfication models using VGG16, MobileNet, and Inception V3</br>
 
 # Dataset
-Used famous open data source [Stanford Dog Breed Dataset](http://vision.stanford.edu/aditya86/ImageNetDogs/)
+* Model Building : Used famous open data source [Stanford Dog Breed Dataset](http://vision.stanford.edu/aditya86/ImageNetDogs/)
+* Performance Testing : Self-collected noise data
 
 # Performance Comparison among Dog Breed Fine-Grained Image Classification Models
 1. __Approach details, models and insights are posted on Medium :__</br>
